@@ -5,7 +5,7 @@ Displays a colored background with a greeting. Two buttons allow the user to cha
 
 ### App Walk-though
 
-![](https://i.imgur.com/5Eku1wx.gif)
+<a href="https://imgur.com/5Eku1wx"><img src="https://i.imgur.com/5Eku1wx.gif" title="source: imgur.com" /></a>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
